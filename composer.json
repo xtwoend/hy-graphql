@@ -1,0 +1,21 @@
+{
+    "name": "xtwoend/hy-graphql",
+    "description": "Annotation GraphQL for Hyperf Framework",
+    "type": "library",
+    "require": {
+        "thecodingmachine/graphqlite": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Hafidz Anshari",
+            "email": "aditans88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Xtwoend\\HyGraphQL\\": "src/"
+        }
+    }
+}
